@@ -1,6 +1,7 @@
 This is code to support an active preprint: HERE (TBD)
 
 Title: Choices to landscapes: Mechanisms of animal movement scale to landscape patterns
+
 Authors: 
 
 Will Rogers will.rogers@yale.edu https://orcid.org/0000-0001-9899-8064 
