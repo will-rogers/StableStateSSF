@@ -18,4 +18,4 @@ Please write with any questions, concerns, or inquiries to will.rogers@yale.edu
 
 All movement data are publically available, and spatial data was collected from public resources. 
 
-Spatial covariate data is provided as R data objects for ease, but the movement data (besides that contained in amt) is available on MoveBank.
+Spatial covariate data is provided as R data objects for ease, but the movement data (besides that contained in amt) are available on MoveBank.
